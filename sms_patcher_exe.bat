@@ -1,0 +1,1 @@
+pyinstaller --distpath . sms_patcher.spec

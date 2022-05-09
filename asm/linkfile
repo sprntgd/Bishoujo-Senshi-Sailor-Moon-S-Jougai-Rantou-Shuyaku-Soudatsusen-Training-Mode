@@ -1,0 +1,6 @@
+[objects]
+rom.o
+charaselect.o
+load1p.o
+load2p.o
+charatheme.o
